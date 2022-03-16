@@ -21,7 +21,7 @@ Website created for U of U bootcamp:
 
 ## Screenshot
 
-![Screenshot](assets/images/screenshot.png)
+![Screenshot](assets/images/screenshot1.png)
 
 
 ## Credits
